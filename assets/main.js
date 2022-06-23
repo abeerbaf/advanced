@@ -50,7 +50,7 @@ document.getElementById("head").addEventListener("click", (e) => {
       case 1:
         comp = "Head";
         break;
-      case 2:
+      case 3:
         comp = "Tail";
         break;
     }
